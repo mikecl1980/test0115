@@ -12,7 +12,9 @@ public class ThreadTest {
         list.add(0,1);
         Map map = new HashMap();
         map.put("aaa",123);
-        String aaaab;
+        String ab;
+        ab = "my test";
+        System.out.println(ab);
 
 
     }

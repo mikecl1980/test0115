@@ -15,7 +15,8 @@ public class ThreadTest {
         String ab;
         ab = "my test";
         System.out.println(ab);
-
+        ab = "again";
+        System.out.println(ab);
 
     }
 
